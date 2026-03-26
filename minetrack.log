@@ -1,0 +1,44 @@
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2026-03-26T19:20:24.991Z"}
+{"level":"info","message":"Started on 0.0.0.0:8080","timestamp":"2026-03-26T19:20:25.052Z"}
+{"level":"warn","message":"No SRV records were resolved for mc.hypixel.net. Minetrack will skip attempting to resolve mc.hypixel.net SRV records for 60 minutes.","timestamp":"2026-03-26T19:20:25.094Z"}
+{"level":"warn","message":"No SRV records were resolved for play.cubecraft.net. Minetrack will skip attempting to resolve play.cubecraft.net SRV records for 60 minutes.","timestamp":"2026-03-26T19:20:25.098Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2026-03-26T19:21:24.181Z"}
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2026-03-26T19:24:14.597Z"}
+{"level":"info","message":"Started on 0.0.0.0:8080","timestamp":"2026-03-26T19:24:14.653Z"}
+{"level":"warn","message":"No SRV records were resolved for mc.hypixel.net. Minetrack will skip attempting to resolve mc.hypixel.net SRV records for 60 minutes.","timestamp":"2026-03-26T19:24:14.691Z"}
+{"level":"warn","message":"No SRV records were resolved for play.cubecraft.net. Minetrack will skip attempting to resolve play.cubecraft.net SRV records for 60 minutes.","timestamp":"2026-03-26T19:24:14.696Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2026-03-26T19:24:20.146Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.4465b28c.css","timestamp":"2026-03-26T19:24:20.198Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.245e8d3b.js","timestamp":"2026-03-26T19:24:20.202Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.e7dd16c2.svg","timestamp":"2026-03-26T19:24:20.205Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.e7dd16c2.svg","timestamp":"2026-03-26T19:24:20.645Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2026-03-26T19:24:20.786Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_0440a496e0a523d7bd0b176d9c222d2f.png","timestamp":"2026-03-26T19:24:20.838Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_37e1b73df41410357757f4c1c06cdf92.png","timestamp":"2026-03-26T19:24:20.840Z"}
+{"level":"info","message":"127.0.0.1 requested: /icomoon.f7eef27e.ttf","timestamp":"2026-03-26T19:24:20.841Z"}
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2026-03-26T19:36:51.200Z"}
+{"level":"info","message":"Started on 0.0.0.0:8080","timestamp":"2026-03-26T19:36:51.259Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2026-03-26T19:36:55.382Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.4465b28c.css","timestamp":"2026-03-26T19:36:55.427Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.245e8d3b.js","timestamp":"2026-03-26T19:36:55.433Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.e7dd16c2.svg","timestamp":"2026-03-26T19:36:55.435Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.e7dd16c2.svg","timestamp":"2026-03-26T19:36:55.514Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2026-03-26T19:36:55.807Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_2007428d3ea5a0374dad3e4196eec2f0.png","timestamp":"2026-03-26T19:36:55.845Z"}
+{"level":"info","message":"127.0.0.1 requested: /icomoon.f7eef27e.ttf","timestamp":"2026-03-26T19:36:55.847Z"}
+{"level":"info","message":"Started on 0.0.0.0:8080","timestamp":"2026-03-26T19:41:04.675Z"}
+{"level":"info","message":"Started on 0.0.0.0:8080","timestamp":"2026-03-26T19:42:28.374Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2026-03-26T19:42:34.065Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.4465b28c.css","timestamp":"2026-03-26T19:42:34.098Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.245e8d3b.js","timestamp":"2026-03-26T19:42:34.103Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.e7dd16c2.svg","timestamp":"2026-03-26T19:42:34.104Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.e7dd16c2.svg","timestamp":"2026-03-26T19:42:34.167Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2026-03-26T19:42:34.445Z"}
+{"level":"info","message":"127.0.0.1 requested: /icomoon.f7eef27e.ttf","timestamp":"2026-03-26T19:42:34.491Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2026-03-26T19:44:09.134Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2026-03-26T19:44:09.155Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.4465b28c.css","timestamp":"2026-03-26T19:44:09.176Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.245e8d3b.js","timestamp":"2026-03-26T19:44:09.180Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.e7dd16c2.svg","timestamp":"2026-03-26T19:44:09.189Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.e7dd16c2.svg","timestamp":"2026-03-26T19:44:09.214Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2026-03-26T19:44:09.517Z"}
